@@ -1,12 +1,6 @@
-﻿Ocuco.Hydra.WebMVC          (.NET Core 2.0)
-Ocuco.Hydra.WebMVC21        (.NET Core 2.1)
-Ocuco.Hydra.WebMVC21.V2     (.NET Core 2.1 + ASP.NET Core Identity)
+# Ocuco.Hydra.Prototype
 
-
-
-# R-D-HydraServer-V1.0
-
-Ocuco.Hydra V1.1.sln
+Ocuco.Hydra.Prototype, Hydra.Hub Prototype presented at steering meeting 10-OCT-2018, .NET solution Ocuco.Hydra.sln Version 1.3
 
 ## Getting Started
 
