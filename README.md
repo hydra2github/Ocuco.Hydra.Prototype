@@ -1,87 +1,55 @@
+![Ocuco.Hydra.Prototype logo](https://github.com/hydra2github/Ocuco.Hydra.Images/blob/master/Logos.and.images/Hydra.Hub.for.Git.backend.png)
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)
+
+[![Release](https://img.shields.io/badge/Version-1.3-green.svg)]()
+[![Platform](https://img.shields.io/badge/platform-win--64-lightgrey.svg)]()
+
+[![Language](https://img.shields.io/badge/Swift-4.0-blue.svg?style=plastic&colorB=68B7EB)]()
+[![License](https://img.shields.io/github/license/vhesener/Closures.svg?style=plastic&colorB=68B7EB)]()
+[![Release](https://img.shields.io/github/release/vhesener/Closures.svg?style=plastic&colorB=68B7EB)]()
+
 # Ocuco.Hydra.Prototype
 
-Ocuco.Hydra.Prototype, Hydra.Hub Prototype presented at steering meeting 10-OCT-2018, .NET solution Ocuco.Hydra.sln Version 1.3
+Ocuco.Hydra.Prototype, Hydra.Hub Prototype presented at steering meeting 10-OCT-2018, 
+Contains .NET solution : Ocuco.Hydra.sln Version 1.3
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+Visual Studio 2017
 
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
+Clone the Git repository 
 
 ```
-Give the example
+git clone https://github.com/hydra2github/R-D-HydraServer-V1.1.git
 ```
 
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+Open the solution and restore packages
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [.NET Core 2.1](https://github.com/dotnet/core/) - The web framework used
+* [Bootstrap 4.0](https://getbootstrap.com/) - Layout
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+.NET Core/ASP.NET Core Web Application progression. 
+
+* Ocuco.Hydra.WebMVC - (.NET Core 2.0)
+* Ocuco.Hydra.WebMVC21 - (.NET Core 2.1)
+* Ocuco.Hydra.WebMVC21.V2 - (.NET Core 2.1 + ASP.NET Core Identity)
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* **Daniel Tassi** - *Initial work*
+* **Alessandro Mazzocchi** - *PM*
+* **Angelo Furlotti** - *Catalogue model*
