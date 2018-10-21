@@ -11,7 +11,6 @@ Ocuco.Hydra.Prototype, Hydra.Hub Prototype presented at steering meeting 10-OCT-
 <br>
 Contains .NET solution : Ocuco.Hydra.sln Version 1.2
 
-A visual profile for software engineers.
 <br>
 
 <p align="center">
@@ -21,11 +20,11 @@ A visual profile for software engineers.
 
 Features
 ========
-* Profile creation with a single click
-* Support of 100 languages (even exotic ones like COBOL)
-* Detection of more than [1,000 libraries](https://github.com/sourcerer-io/awesome-libraries) in code with per-line statistics
-* Visual presentation your development experience
-* *Finally!* Summary of all repositories you've contributed to :tada:
+* Landing page
+* Catalogue APIs
+* Luxottica RXO (Bludata) APIs
+* Luxottica RXO (Bludata) Audit APIs
+* Full RXO console
 
 
 ## Getting Started
