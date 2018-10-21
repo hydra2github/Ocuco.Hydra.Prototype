@@ -5,19 +5,40 @@
 [![Release](https://img.shields.io/badge/Version-1.2-green.svg)]()
 [![Platform](https://img.shields.io/badge/platform-win--64-lightgrey.svg)]()
 
-
 # Ocuco.Hydra.Prototype
 
-Ocuco.Hydra.Prototype, Hydra.Hub Prototype presented at steering meeting 10-OCT-2018, 
-Contains .NET solution : Ocuco.Hydra.sln Version 1.3
+Ocuco.Hydra.Prototype, Hydra.Hub Prototype presented at steering meeting 10-OCT-2018
+<br>
+Contains .NET solution : Ocuco.Hydra.sln Version 1.2
+
+A visual profile for software engineers.
+<br>
+
+<p align="center">
+  <img alt="anigif" src="https://github.com/hydra2github/Ocuco.Hydra.Images/blob/master/AnimatedGifs/Ocuco.Hydra.Prototype.Video01.gif">
+</p>
+
+
+Features
+========
+* Profile creation with a single click
+* Support of 100 languages (even exotic ones like COBOL)
+* Detection of more than [1,000 libraries](https://github.com/sourcerer-io/awesome-libraries) in code with per-line statistics
+* Visual presentation your development experience
+* *Finally!* Summary of all repositories you've contributed to :tada:
+
 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
-### Prerequisites
 
-Visual Studio 2017
+### Requirements
+
+* Windows
+* Git
+* Web browser
+* Visual Studio 2017
 
 ### Installing
 
