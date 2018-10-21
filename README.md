@@ -1,9 +1,9 @@
 ![Ocuco.Hydra.Prototype logo](https://github.com/hydra2github/Ocuco.Hydra.Images/blob/master/Logos.and.images/Hydra.Hub.for.Git.backend.png)
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://github.com/hydra2github)
 
-[![Release](https://img.shields.io/badge/Version-1.2-green.svg)]()
-[![Platform](https://img.shields.io/badge/platform-win--64-lightgrey.svg)]()
+[![Release](https://img.shields.io/badge/Version-1.2-green.svg)](https://github.com/hydra2github)
+[![Platform](https://img.shields.io/badge/platform-win--64-lightgrey.svg)](https://github.com/hydra2github)
 
 # Ocuco.Hydra.Prototype
 
