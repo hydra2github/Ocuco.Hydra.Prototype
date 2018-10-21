@@ -2,7 +2,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)
 
-[![Release](https://img.shields.io/badge/Version-1.3-green.svg)]()
+[![Release](https://img.shields.io/badge/Version-1.2-green.svg)]()
 [![Platform](https://img.shields.io/badge/platform-win--64-lightgrey.svg)]()
 
 
