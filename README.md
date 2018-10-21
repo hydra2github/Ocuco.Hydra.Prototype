@@ -5,9 +5,6 @@
 [![Release](https://img.shields.io/badge/Version-1.3-green.svg)]()
 [![Platform](https://img.shields.io/badge/platform-win--64-lightgrey.svg)]()
 
-[![Language](https://img.shields.io/badge/Swift-4.0-blue.svg?style=plastic&colorB=68B7EB)]()
-[![License](https://img.shields.io/github/license/vhesener/Closures.svg?style=plastic&colorB=68B7EB)]()
-[![Release](https://img.shields.io/github/release/vhesener/Closures.svg?style=plastic&colorB=68B7EB)]()
 
 # Ocuco.Hydra.Prototype
 
