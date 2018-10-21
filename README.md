@@ -26,7 +26,7 @@ A step by step series of examples that tell you how to get a development env run
 Clone the Git repository 
 
 ```
-git clone https://github.com/hydra2github/R-D-HydraServer-V1.1.git
+git clone https://github.com/hydra2github/Ocuco.Hydra.Prototype.git
 ```
 
 Open the solution and restore packages
